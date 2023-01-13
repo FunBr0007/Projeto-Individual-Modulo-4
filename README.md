@@ -12,7 +12,7 @@ As três perguntas são:
 
 
 
-##Existem outras entidades além dessas três?
+## Existem outras entidades além dessas três?
 
 ```sh
 R: Sim, existe, uma entidade na qual o registro dos professores se localiza, a entidade professores foi criada com o propósio de deixar a organição da modelagem do banco de dados melhor e mais coerente.
@@ -20,7 +20,7 @@ R: Sim, existe, uma entidade na qual o registro dos professores se localiza, a e
 
 
 
-##Quais são os principais campos e tipos?
+## Quais são os principais campos e tipos?
 
 ```sh
 R: Nesse projeto foram usados os tipos VARCHAR e INT.
@@ -28,7 +28,7 @@ R: Nesse projeto foram usados os tipos VARCHAR e INT.
 
 
 
-##Como essas entidades estão relacionadas?
+## Como essas entidades estão relacionadas?
 
 ```sh
 R: A relação da entidade professores para a entidade cursos está Muitos x Muitos.
@@ -39,7 +39,7 @@ R: A relação da entidade professores para a entidade cursos está Muitos x Mui
 
 
 
-##A entidade professores tem os seguintes registros:
+## A entidade professores tem os seguintes registros:
 
 ```sh
 professores_id INT
@@ -50,7 +50,7 @@ turno VARCHAR(45)
 
 
 
-##A entidade cursos tem os seguintes registros:
+## A entidade cursos tem os seguintes registros:
 
 ```sh
 cursos_id INT
@@ -61,7 +61,7 @@ marketing_digital VARCHAR(100)
 
 
 
-##A entidade Turmas tem os seguintes registros:
+## A entidade Turmas tem os seguintes registros:
 
 ```sh
 turma_id INT
@@ -71,7 +71,7 @@ turma 2 VARCHAR(45)
 
 
 
-##A entidade Alunos tem os seguintes registros:
+## A entidade Alunos tem os seguintes registros:
 
 ```sh
 alunos_id INT
