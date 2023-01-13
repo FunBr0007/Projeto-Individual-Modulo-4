@@ -3,7 +3,7 @@
 A proposta do projeto individual é criar um exemplo de banco de dados com tabelas relacionadas usando Foreing Key e responder algumas perguntas sobre o projeto proposto
 
 
-![diagrama](projeto modulo4 definitivo.pdf)
+![diagrama](projeto modulo4 definitivo.png)
 
 
 
